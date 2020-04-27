@@ -1,0 +1,120 @@
+The actress insulted her friends . <eos>
+The bride invited her family . <eos>
+The countess advised her husband . <eos>
+My wife called her mother . <eos>
+The witch cursed her enemies . <eos>
+The goddess preached to her worshipers . <eos>
+My aunt fought with her husband . <eos>
+The lady visited her family . <eos>
+The princess questioned her maid . <eos>
+The girl met her friends . <eos>
+The queen commanded her generals . <eos>
+Your mother gossiped with her acquaintances . <eos>
+The waitress talked with her manager . <eos>
+The mistress wrote a letter to her lover . <eos>
+The boy played tag with his classmates . <eos>
+The knight travelled with his squire . <eos>
+The chairman checked his agenda . <eos>
+The king commanded his army . <eos>
+The fireman saved his colleague . <eos>
+The emperor talked with his councilors . <eos>
+His uncle met with his therapist . <eos>
+The bishop blessed his congregants . <eos>
+My brother travelled with his soccer team . <eos>
+The bachelor mailed a letter to his mother . <eos>
+The count danced with his wife . <eos>
+The policeman questioned his partner . <eos>
+The clergyman advised his friends . <eos>
+The mailman saw his good friend . <eos>
+The man met his friends . <eos>
+Your husband saw his brother . <eos>
+The actress insulted his friends . <eos>
+The bride invited his family . <eos>
+The countess advised his husband . <eos>
+My wife called his mother . <eos>
+The witch cursed his enemies . <eos>
+The goddess preached to his worshipers . <eos>
+My aunt fought with his husband . <eos>
+The lady visited his family . <eos>
+The princess questioned his maid . <eos>
+The girl met his friends . <eos>
+The queen commanded his generals . <eos>
+Your mother gossiped with his acquaintances . <eos>
+The waitress talked with his manager . <eos>
+The mistress wrote a letter to his lover . <eos>
+The boy played tag with her classmates . <eos>
+The knight travelled with her squire . <eos>
+The chairman checked her agenda . <eos>
+The king commanded her army . <eos>
+The fireman saved her colleague . <eos>
+The emperor talked with her councilors . <eos>
+His uncle met with her therapist . <eos>
+The bishop blessed her congregants . <eos>
+My brother travelled with her soccer team . <eos>
+The bachelor mailed a letter to her mother . <eos>
+The count danced with her wife . <eos>
+The policeman questioned her partner . <eos>
+The clergyman advised her friends . <eos>
+The mailman saw her good friend . <eos>
+The man met her friends . <eos>
+Your husband saw her brother . <eos>
+The actress got mad after they insulted her friends . <eos>
+The bride wrote a letter as soon as they invited her family . <eos>
+The countess became worried when they advised her husband . <eos>
+My wife went home after they called her mother . <eos>
+The witch muttered a hex as they cursed her enemies . <eos>
+The goddess watched as they preached to her worshipers . <eos>
+My aunt grew depressed when they fought with her husband . <eos>
+The lady baked a cake after they visited her family . <eos>
+The princess sat silently while they questioned her maid . <eos>
+The girl ran away before they met her friends . <eos>
+The queen grew mad after they commanded her generals . <eos>
+Your mother left the party before they gossiped with her acquaintances . <eos>
+The waitress served the dishes while they talked with her manager . <eos>
+The mistress left town before they wrote a letter to her lover . <eos>
+The boy returned home after they played tag with his classmates . <eos>
+The knight fought a battle while they travelled with his squire . <eos>
+The chairman smoked a cigar while they checked his agenda . <eos>
+The king went hunting while they commanded his army . <eos>
+The fireman felt relieved after they saved his colleague . <eos>
+The emperor read a book while they talked with his councilors . <eos>
+His uncle became sick before they met with his therapist . <eos>
+The bishop prayed alone while they blessed his congregants . <eos>
+My brother went to the hospital while they travelled with his soccer team . <eos>
+The bachelor arrived before they mailed a letter to his mother . <eos>
+The count grew angry after they danced with his wife . <eos>
+The policeman watched as they questioned his partner . <eos>
+The clergyman grew suspicious after they advised his friends . <eos>
+The mailman went to work after they saw his good friend . <eos>
+The man left before they met his friends . <eos>
+Your husband went home before they saw his brother . <eos>
+The actress got mad after they insulted his friends . <eos>
+The bride wrote a letter as soon as they invited his family . <eos>
+The countess became worried when they advised his husband . <eos>
+My wife went home after they called his mother . <eos>
+The witch muttered a hex as they cursed his enemies . <eos>
+The goddess watched as they preached to his worshipers . <eos>
+My aunt grew depressed when they fought with his husband . <eos>
+The lady baked a cake after they visited his family . <eos>
+The princess sat silently while they questioned his maid . <eos>
+The girl ran away before they met his friends . <eos>
+The queen grew mad after they commanded his generals . <eos>
+Your mother left the party before they gossiped with his acquaintances . <eos>
+The waitress served the dishes while they talked with his manager . <eos>
+The mistress left town before they wrote a letter to his lover . <eos>
+The boy returned home after they played tag with her classmates . <eos>
+The knight fought a battle while they travelled with her squire . <eos>
+The chairman smoked a cigar while they checked her agenda . <eos>
+The king went hunting while they commanded her army . <eos>
+The fireman felt relieved after they saved her colleague . <eos>
+The emperor read a book while they talked with her councilors . <eos>
+His uncle became sick before they met with her therapist . <eos>
+The bishop prayed alone while they blessed her congregants . <eos>
+My brother went to the hospital while they travelled with her soccer team . <eos>
+The bachelor arrived before they mailed a letter to her mother . <eos>
+The count grew angry after they danced with her wife . <eos>
+The policeman watched as they questioned her partner . <eos>
+The clergyman grew suspicious after they advised her friends . <eos>
+The mailman went to work after they saw her good friend . <eos>
+The man left before they met her friends . <eos>
+Your husband went home before they saw her brother . <eos>

@@ -1,0 +1,120 @@
+The actress said they sold the painting by her friend . <eos>
+The bride knows they said the delivery for her roommate . <eos>
+The countess believes they sold the painting by her acquaintance . <eos>
+My wife thinks they included the instructions for her appliance . <eos>
+The witch believes they followed the recipe for her potion . <eos>
+The goddess hopes they recited the prayers for her priests . <eos>
+My aunt thinks they delivered the package for her husband . <eos>
+The lady believes they enjoyed the symphony by her friend . <eos>
+The princess hopes the heard the opera by her lover . <eos>
+The girl knows they found the picture of her teacher . <eos>
+The queen hopes they liked the ode by her favorite poet . <eos>
+Your mother hopes they delivered the present for her sister . <eos>
+The waitress thinks they saved the tip for her service . <eos>
+The mistress believes they did not find the gift for her lover . <eos>
+The boy knows they did not open the present for his mother . <eos>
+The knight believes they did not hear the challenge by his rival . <eos>
+The chairman hopes they read the documents for his secretary . <eos>
+The king thinks they ignored the invitation from his allies . <eos>
+The fireman believes they heeded the warning from his hometown . <eos>
+The emperor worries they ignored the declaration of war by his enemies . <eos>
+His uncle believes they delivered a lecture on his area of expertise . <eos>
+The bishop hopes they said a prayer for his congregants . <eos>
+My brother thinks they wrote a report on his job . <eos>
+The bachelor worries they misplaced the letter for his mother . <eos>
+The count thinks they read the novel by his friend . <eos>
+The policeman believes they ignored the threat from his chief . <eos>
+The clergyman hopes they said a prayer for his congregants . <eos>
+The mailman believes they penned the letter for his neighbor . <eos>
+The man thinks they attend a conference on his interest . <eos>
+Your husband thinks they went to a symposium on his favorite topic . <eos>
+The actress said they sold the painting by his friend . <eos>
+The bride knows they said the delivery for his roommate . <eos>
+The countess believes they sold the painting by his acquaintance . <eos>
+My wife thinks they included the instructions for his appliance . <eos>
+The witch believes they followed the recipe for his potion . <eos>
+The goddess hopes they recited the prayers for his priests . <eos>
+My aunt thinks they delivered the package for his husband . <eos>
+The lady believes they enjoyed the symphony by his friend . <eos>
+The princess hopes the heard the opera by his lover . <eos>
+The girl knows they found the picture of his teacher . <eos>
+The queen hopes they liked the ode by his favorite poet . <eos>
+Your mother hopes they delivered the present for his sister . <eos>
+The waitress thinks they saved the tip for his service . <eos>
+The mistress believes they did not find the gift for his lover . <eos>
+The boy knows they did not open the present for her mother . <eos>
+The knight believes they did not hear the challenge by her rival . <eos>
+The chairman hopes they read the documents for her secretary . <eos>
+The king thinks they ignored the invitation from her allies . <eos>
+The fireman believes they heeded the warning from her hometown . <eos>
+The emperor worries they ignored the declaration of war by her enemies . <eos>
+His uncle believes they delivered a lecture on her area of expertise . <eos>
+The bishop hopes they said a prayer for her congregants . <eos>
+My brother thinks they wrote a report on her job . <eos>
+The bachelor worries they misplaced the letter for her mother . <eos>
+The count thinks they read the novel by her friend . <eos>
+The policeman believes they ignored the threat from her chief . <eos>
+The clergyman hopes they said a prayer for her congregants . <eos>
+The mailman believes they penned the letter for her neighbor . <eos>
+The man thinks they attend a conference on her interest . <eos>
+Your husband thinks they went to a symposium on her favorite topic . <eos>
+The actress said the painting by her friend fetched a lot of money . <eos>
+The bride knows the delivery for her roommate was late . <eos>
+The countess believes the painting by her acquaintance was sold at auction . <eos>
+My wife thinks the instructions for her appliance were very complicated . <eos>
+The witch believes the recipe for her potion was difficult . <eos>
+The goddess hopes the prayers for her priests were recited . <eos>
+My aunt thinks the package for her husband was delivered on time . <eos>
+The lady believes the symphony by her friend was enjoyed by all . <eos>
+The princess hopes the opera by her lover was written in secret . <eos>
+The girl knows the picture of her teacher was taken long ago . <eos>
+The queen hopes the ode by her favorite poet was very long . <eos>
+Your mother hopes the present for her sister was delivered on time . <eos>
+The waitress thinks the tip for her service was saved in a jar . <eos>
+The mistress believes the gift for her lover was not found . <eos>
+The boy knows the present for his mother was not opened on Christmas . <eos>
+The knight believes the challenge by his rival was not heard . <eos>
+The chairman hopes the documents for his secretary were read by someone else . <eos>
+The king thinks the invitation from his allies was ignored . <eos>
+The fireman believes the warning from his hometown was heeded . <eos>
+The emperor worries the declaration of war by his enemies was ignored . <eos>
+His uncle believes a lecture on his area of expertise was delivered at the conference . <eos>
+The bishop hopes a prayer for his congregants was delivered in church . <eos>
+My brother thinks the report on his job was difficult to write . <eos>
+The bachelor worries the letter for his mother was misplaced . <eos>
+The count thinks the novel by his friend was read by everyone . <eos>
+The policeman believes the threat from his chief was ignored . <eos>
+The clergyman hopes a prayer for his congregants was said in church . <eos>
+The mailman believes the letter for his neighbor was a fraud . <eos>
+The man thinks a conference on his interest was attended by everyone . <eos>
+Your husband thinks a symposium on his favorite topic was attended by everyone . <eos>
+The actress said the painting by his friend fetched a lot of money . <eos>
+The bride knows the delivery for his roommate was late . <eos>
+The countess believes the painting by his acquaintance was sold at auction . <eos>
+My wife thinks the instructions for his appliance were very complicated . <eos>
+The witch believes the recipe for his potion was difficult . <eos>
+The goddess hopes the prayers for his priests were recited . <eos>
+My aunt thinks the package for his husband was delivered on time . <eos>
+The lady believes the symphony by his friend was enjoyed by all . <eos>
+The princess hopes the opera by his lover was written in secret . <eos>
+The girl knows the picture of his teacher was taken long ago . <eos>
+The queen hopes the ode by his favorite poet was very long . <eos>
+Your mother hopes the present for his sister was delivered on time . <eos>
+The waitress thinks the tip for his service was saved in a jar . <eos>
+The mistress believes the gift for his lover was not found . <eos>
+The boy knows the present for her mother was not opened on Christmas . <eos>
+The knight believes the challenge by her rival was not heard . <eos>
+The chairman hopes the documents for her secretary were read by someone else . <eos>
+The king thinks the invitation from her allies was ignored . <eos>
+The fireman believes the warning from her hometown was heeded . <eos>
+The emperor worries the declaration of war by her enemies was ignored . <eos>
+His uncle believes a lecture on her area of expertise was delivered at the conference . <eos>
+The bishop hopes a prayer for her congregants was delivered in church . <eos>
+My brother thinks the report on her job was difficult to write . <eos>
+The bachelor worries the letter for her mother was misplaced . <eos>
+The count thinks the novel by her friend was read by everyone . <eos>
+The policeman believes the threat from her chief was ignored . <eos>
+The clergyman hopes a prayer for her congregants was said in church . <eos>
+The mailman believes the letter for her neighbor was a fraud . <eos>
+The man thinks a conference on her interest was attended by everyone . <eos>
+Your husband thinks a symposium on her favorite topic was attended by everyone . <eos>

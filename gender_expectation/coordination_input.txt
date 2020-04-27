@@ -1,0 +1,120 @@
+The actress knows they talked about her performance . <eos>
+The bride believes they lost her ring . <eos>
+The countess believes they have burned her castle . <eos>
+My wife thinks they have met her parents . <eos>
+The witch believes they were affected by her hex . <eos>
+The goddess believes they sing praises to her divinity . <eos>
+My aunt knows they enjoyed her cooking . <eos>
+The lady believes they trespassed into her house . <eos>
+The princess worries they stole her her jewels . <eos>
+The girl hopes they will invite her friends . <eos>
+The queen hopes they will murder her chambermaid . <eos>
+Your mother believes they will welcome her friends . <eos>
+The waitress hopes they will discuss her salary . <eos>
+The mistress hopes they do not notice her absense . <eos>
+The boy believes they broke his plane . <eos>
+The knight is afraid of losing his lady . <eos>
+The chairman believes they will discuss his recommendation . <eos>
+The king hopes they will agree to his battle plans . <eos>
+The fireman hopes they will wash his boots . <eos>
+The emperor believes they fear his intellect . <eos>
+His uncle knows they invited his parents . <eos>
+The bishop thinks they met his clergymen . <eos>
+My brother thinks they talk with his parents . <eos>
+The bachelor thinks they disapprove of his his apartment . <eos>
+The count is worried they envy his daughter . <eos>
+The policeman is convinced they murdered his partner . <eos>
+The clergyman hopes they will listen to his benediction . <eos>
+The mailman believes they will discuss his paycheck . <eos>
+The man is worried they dislike his conversation . <eos>
+Your husband thinks they know his parents . <eos>
+The actress knows they talked about his performance . <eos>
+The bride believes they lost his ring . <eos>
+The countess believes they have burned his castle . <eos>
+My wife thinks they have met his parents . <eos>
+The witch believes they were affected by his hex . <eos>
+The goddess believes they sing praises to his divinity . <eos>
+My aunt knows they enjoyed his cooking . <eos>
+The lady believes they trespassed into his house . <eos>
+The princess worries they stole his her jewels . <eos>
+The girl hopes they will invite his friends . <eos>
+The queen hopes they will murder his chambermaid . <eos>
+Your mother believes they will welcome his friends . <eos>
+The waitress hopes they will discuss his salary . <eos>
+The mistress hopes they do not notice his absense . <eos>
+The boy believes they broke her plane . <eos>
+The knight is afraid of losing her lady . <eos>
+The chairman believes they will discuss her recommendation . <eos>
+The king hopes they will agree to her battle plans . <eos>
+The fireman hopes they will wash her boots . <eos>
+The emperor believes they fear her intellect . <eos>
+His uncle knows they invited her parents . <eos>
+The bishop thinks they met her clergymen . <eos>
+My brother thinks they talk with her parents . <eos>
+The bachelor thinks they disapprove of her his apartment . <eos>
+The count is worried they envy her daughter . <eos>
+The policeman is convinced they murdered her partner . <eos>
+The clergyman hopes they will listen to her benediction . <eos>
+The mailman believes they will discuss her paycheck . <eos>
+The man is worried they dislike her conversation . <eos>
+Your husband thinks they know her parents . <eos>
+The actress knows they talked about the recent cast list and her performance . <eos>
+The bride believes they lost the wedding invitations and her ring . <eos>
+The countess believes they have burned the village and her castle . <eos>
+My wife thinks they have met the distant relatives her parents . <eos>
+The witch believes they were affected by the potion and her hex . <eos>
+The goddess believes they sing praises to the earth and her divinity . <eos>
+My aunt knows they enjoyed the wine and her cooking . <eos>
+The lady believes they trespassed into the garden her house . <eos>
+The princess worries they stole the paintings her her jewels . <eos>
+The girl hopes they will invite the neighbors her friends . <eos>
+The queen hopes they will murder the guards and her chambermaid . <eos>
+Your mother believes they will welcome the newcomers and her friends . <eos>
+The waitress hopes they will discuss the broken oven her salary . <eos>
+The mistress hopes they do not notice the open door and her absense . <eos>
+The boy believes they broke the model trains and his plane . <eos>
+The knight is afraid of losing the sousing contest his lady . <eos>
+The chairman believes they will discuss the pressing issues and his recommendation . <eos>
+The king hopes they will agree to the wartime policies and his battle plans . <eos>
+The fireman hopes they will wash the new uniforms and his boots . <eos>
+The emperor believes they fear the unstoppable army and his intellect . <eos>
+His uncle knows they invited the neighbors and his parents . <eos>
+The bishop thinks they met the local peasants and his clergymen . <eos>
+My brother thinks they talk with the principle and his parents . <eos>
+The bachelor thinks they disapprove of the neighborhood and his his apartment . <eos>
+The count is worried they envy the castle his daughter . <eos>
+The policeman is convinced they murdered the judge his partner . <eos>
+The clergyman hopes they will listen to the prayers and his benediction . <eos>
+The mailman believes they will discuss the strikes and his paycheck . <eos>
+The man is worried they dislike the food and his conversation . <eos>
+Your husband thinks they know the neighbors and his parents . <eos>
+The actress knows they talked about the recent cast list and his performance . <eos>
+The bride believes they lost the wedding invitations and his ring . <eos>
+The countess believes they have burned the village and his castle . <eos>
+My wife thinks they have met the distant relatives his parents . <eos>
+The witch believes they were affected by the potion and his hex . <eos>
+The goddess believes they sing praises to the earth and his divinity . <eos>
+My aunt knows they enjoyed the wine and his cooking . <eos>
+The lady believes they trespassed into the garden his house . <eos>
+The princess worries they stole the paintings his her jewels . <eos>
+The girl hopes they will invite the neighbors his friends . <eos>
+The queen hopes they will murder the guards and his chambermaid . <eos>
+Your mother believes they will welcome the newcomers and his friends . <eos>
+The waitress hopes they will discuss the broken oven his salary . <eos>
+The mistress hopes they do not notice the open door and his absense . <eos>
+The boy believes they broke the model trains and her plane . <eos>
+The knight is afraid of losing the sousing contest her lady . <eos>
+The chairman believes they will discuss the pressing issues and her recommendation . <eos>
+The king hopes they will agree to the wartime policies and her battle plans . <eos>
+The fireman hopes they will wash the new uniforms and her boots . <eos>
+The emperor believes they fear the unstoppable army and her intellect . <eos>
+His uncle knows they invited the neighbors and her parents . <eos>
+The bishop thinks they met the local peasants and her clergymen . <eos>
+My brother thinks they talk with the principle and her parents . <eos>
+The bachelor thinks they disapprove of the neighborhood and her his apartment . <eos>
+The count is worried they envy the castle her daughter . <eos>
+The policeman is convinced they murdered the judge her partner . <eos>
+The clergyman hopes they will listen to the prayers and her benediction . <eos>
+The mailman believes they will discuss the strikes and her paycheck . <eos>
+The man is worried they dislike the food and her conversation . <eos>
+Your husband thinks they know the neighbors and her parents . <eos>

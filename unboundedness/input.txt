@@ -1,0 +1,840 @@
+I know that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the pilot sent a present to his family when we landed . <eos>
+We discovered that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that the single mother called her father for advice late at night . <eos>
+The colleagues realized that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that your friend gave to Mary last weekend . <eos>
+The accountant wondered that the secretary introduced to her friend last night . <eos>
+The assistant told me that the pilot sent to his family when we landed . <eos>
+We discovered that the witty actor told about the woman during the party . <eos>
+The neighbors found out that the young woman bought for her parents in a rush . <eos>
+My friend knows that the successful architect built for her mother last year . <eos>
+The commissioner discovered that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know that the investor lent to his daughter after the housing market crashed . <eos>
+I know that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed that the suffering artist created about tragic love last winter . <eos>
+We all know that the young politician said about immigration a week before the voting . <eos>
+I know that the young professional assembled for his parents last night . <eos>
+My friends all know that the businessman left in the office this afternoon . <eos>
+The visitor said that the elderly lady described to her friends during the card game . <eos>
+I know that the single mother called for advice late at night . <eos>
+The colleagues realized that the human resources officer found for the intern yesterday . <eos>
+She said that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know that the journalist put on top of the table during the press conference . <eos>
+I know what your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the secretary introduced the young man to her friend last night . <eos>
+The assistant told me what the pilot sent a present to his family when we landed . <eos>
+We discovered what the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out what the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows what the successful architect built a house for her mother last year . <eos>
+The commissioner discovered what the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know what the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know what the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out what the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized what the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the suffering artist created a painting about tragic love last winter . <eos>
+We all know what the young politician said a few remarks about immigration a week before the voting . <eos>
+I know what the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know who the businessman left her computer in the office this afternoon . <eos>
+The visitor said what the elderly lady described her morning routine to her friends during the card game . <eos>
+I know who the single mother called her father for advice late at night . <eos>
+The colleagues realized what the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said what the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know who the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know what your friend gave to Mary last weekend . <eos>
+The accountant wondered who the secretary introduced to her friend last night . <eos>
+The assistant told me what the pilot sent to his family when we landed . <eos>
+We discovered what the witty actor told about the woman during the party . <eos>
+The neighbors found out what the young woman bought for her parents in a rush . <eos>
+My friend knows what the successful architect built for her mother last year . <eos>
+The commissioner discovered what the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know what the investor lent to his daughter after the housing market crashed . <eos>
+I know what the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the administrator promised to the factory workers during the speech . <eos>
+Her friend found out what the evil businessman sold to the innocent couple yesterday . <eos>
+I realized what the foreign visitor told to the guests over dinner . <eos>
+The novel revealed what the suffering artist created about tragic love last winter . <eos>
+We all know what the young politician said about immigration a week before the voting . <eos>
+I know what the young professional assembled for his parents last night . <eos>
+My friends all know who the businessman left in the office this afternoon . <eos>
+The visitor said what the elderly lady described to her friends during the card game . <eos>
+I know who the single mother called for advice late at night . <eos>
+The colleagues realized what the human resources officer found for the intern yesterday . <eos>
+She said what the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know who the journalist put on top of the table during the press conference . <eos>
+I know that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the pilot sent a present to his family when we landed . <eos>
+We discovered that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that the single mother called her father for advice late at night . <eos>
+The colleagues realized that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that your friend gave a gift to last weekend . <eos>
+The accountant wondered that the secretary introduced the young man to last night . <eos>
+The assistant told me that the pilot sent a present to when we landed . <eos>
+We discovered that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out that the young woman bought some flowers for in a rush . <eos>
+My friend knows that the successful architect built a house for last year . <eos>
+The commissioner discovered that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know that the investor lent a lot of money to after the housing market crashed . <eos>
+I know that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out that the evil businessman sold a broken car to yesterday . <eos>
+I realized that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed that the suffering artist created a painting about last winter . <eos>
+We all know that the young politician said a few remarks about a week before the voting . <eos>
+I know that the young professional assembled a fancy meal for last night . <eos>
+My friends all know that the businessman left her computer in this afternoon . <eos>
+The visitor said that the elderly lady described her morning routine to during the card game . <eos>
+I know that the single mother called her father for late at night . <eos>
+The colleagues realized that the human resources officer found a spare computer cord for yesterday . <eos>
+She said that the five star general awarded a medal to over the weekend . <eos>
+We all know that the journalist put his tape recorder on top of during the press conference . <eos>
+I know who your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the secretary introduced the young man to her friend last night . <eos>
+The assistant told me who the pilot sent a present to his family when we landed . <eos>
+We discovered who the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out who the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows who the successful architect built a house for her mother last year . <eos>
+The commissioner discovered who the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know who the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know who the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported who the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out who the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized who the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the suffering artist created a painting about tragic love last winter . <eos>
+We all know what the young politician said a few remarks about immigration a week before the voting . <eos>
+I know who the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know what the businessman left her computer in the office this afternoon . <eos>
+The visitor said who the elderly lady described her morning routine to her friends during the card game . <eos>
+I know what the single mother called her father for advice late at night . <eos>
+The colleagues realized who the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said who the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know what the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know who your friend gave a gift to last weekend . <eos>
+The accountant wondered who the secretary introduced the young man to last night . <eos>
+The assistant told me who the pilot sent a present to when we landed . <eos>
+We discovered who the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out who the young woman bought some flowers for in a rush . <eos>
+My friend knows who the successful architect built a house for last year . <eos>
+The commissioner discovered who the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know who the investor lent a lot of money to after the housing market crashed . <eos>
+I know who the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported who the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out who the evil businessman sold a broken car to yesterday . <eos>
+I realized who the foreign visitor told a joke to over dinner . <eos>
+The novel revealed what the suffering artist created a painting about last winter . <eos>
+We all know what the young politician said a few remarks about a week before the voting . <eos>
+I know who the young professional assembled a fancy meal for last night . <eos>
+My friends all know what the businessman left her computer in this afternoon . <eos>
+The visitor said who the elderly lady described her morning routine to during the card game . <eos>
+I know what the single mother called her father for late at night . <eos>
+The colleagues realized who the human resources officer found a spare computer cord for yesterday . <eos>
+She said who the five star general awarded a medal to over the weekend . <eos>
+We all know what the journalist put his tape recorder on top of during the press conference . <eos>
+I know that our mother said that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that your friend gave to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that the secretary introduced to her friend last night . <eos>
+The assistant told me that the man knew that the pilot sent to his family when we landed . <eos>
+We discovered that our friends argued that the witty actor told about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the young woman bought for her parents in a rush . <eos>
+My friend knows that her mother heard that the successful architect built for her mother last year . <eos>
+The commissioner discovered that the judge thought that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the investor lent to his daughter after the housing market crashed . <eos>
+I know that the accountant said that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed that the narrator believed that the suffering artist created about tragic love last winter . <eos>
+We all know that our friend thought that the young politician said about immigration a week before the voting . <eos>
+I know that my coworker said that the young professional assembled for his parents last night . <eos>
+My friends all know that their mentor said that the businessman left in the office this afternoon . <eos>
+The visitor said that her friend knew that the elderly lady described to her friends during the card game . <eos>
+I know that my friend said that the single mother called for advice late at night . <eos>
+The colleagues realized that their person believed that the human resources officer found for the intern yesterday . <eos>
+She said that her mother stated that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that the journalist put on top of the table during the press conference . <eos>
+I know what our mother said that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me what the man knew that the pilot sent a present to his family when we landed . <eos>
+We discovered what our friends argued that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows what her mother heard that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered what the judge thought that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know what the accountant said that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know what my coworker said that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know who their mentor said that the businessman left her computer in the office this afternoon . <eos>
+The visitor said what her friend knew that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know who my friend said that the single mother called her father for advice late at night . <eos>
+The colleagues realized what their person believed that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said what her mother stated that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know what our mother said that your friend gave to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that the secretary introduced to her friend last night . <eos>
+The assistant told me what the man knew that the pilot sent to his family when we landed . <eos>
+We discovered what our friends argued that the witty actor told about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the young woman bought for her parents in a rush . <eos>
+My friend knows what her mother heard that the successful architect built for her mother last year . <eos>
+The commissioner discovered what the judge thought that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the investor lent to his daughter after the housing market crashed . <eos>
+I know what the accountant said that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed what the narrator believed that the suffering artist created about tragic love last winter . <eos>
+We all know what our friend thought that the young politician said about immigration a week before the voting . <eos>
+I know what my coworker said that the young professional assembled for his parents last night . <eos>
+My friends all know who their mentor said that the businessman left in the office this afternoon . <eos>
+The visitor said what her friend knew that the elderly lady described to her friends during the card game . <eos>
+I know who my friend said that the single mother called for advice late at night . <eos>
+The colleagues realized what their person believed that the human resources officer found for the intern yesterday . <eos>
+She said what her mother stated that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that the journalist put on top of the table during the press conference . <eos>
+I know that our mother said that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that your friend gave a gift to last weekend . <eos>
+The accountant wondered that the security guard believed that the secretary introduced the young man to last night . <eos>
+The assistant told me that the man knew that the pilot sent a present to when we landed . <eos>
+We discovered that our friends argued that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out that the delivery boy remarked that the young woman bought some flowers for in a rush . <eos>
+My friend knows that her mother heard that the successful architect built a house for last year . <eos>
+The commissioner discovered that the judge thought that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know that the report stated that the investor lent a lot of money to after the housing market crashed . <eos>
+I know that the accountant said that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out that the investigator thought that the evil businessman sold a broken car to yesterday . <eos>
+I realized that my friend remembered that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed that the narrator believed that the suffering artist created a painting about last winter . <eos>
+We all know that our friend thought that the young politician said a few remarks about a week before the voting . <eos>
+I know that my coworker said that the young professional assembled a fancy meal for last night . <eos>
+My friends all know that their mentor said that the businessman left her computer in this afternoon . <eos>
+The visitor said that her friend knew that the elderly lady described her morning routine to during the card game . <eos>
+I know that my friend said that the single mother called her father for late at night . <eos>
+The colleagues realized that their person believed that the human resources officer found a spare computer cord for yesterday . <eos>
+She said that her mother stated that the five star general awarded a medal to over the weekend . <eos>
+We all know that the politician stated that the journalist put his tape recorder on top of during the press conference . <eos>
+I know who our mother said that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me who the man knew that the pilot sent a present to his family when we landed . <eos>
+We discovered who our friends argued that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out who the delivery boy remarked that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows who her mother heard that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered who the judge thought that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know who the report stated that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know who the accountant said that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out who the investigator thought that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized who my friend remembered that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know who my coworker said that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know what their mentor said that the businessman left her computer in the office this afternoon . <eos>
+The visitor said who her friend knew that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know what my friend said that the single mother called her father for advice late at night . <eos>
+The colleagues realized who their person believed that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said who her mother stated that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know what the politician stated that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know who our mother said that your friend gave a gift to last weekend . <eos>
+The accountant wondered who the security guard believed that the secretary introduced the young man to last night . <eos>
+The assistant told me who the man knew that the pilot sent a present to when we landed . <eos>
+We discovered who our friends argued that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out who the delivery boy remarked that the young woman bought some flowers for in a rush . <eos>
+My friend knows who her mother heard that the successful architect built a house for last year . <eos>
+The commissioner discovered who the judge thought that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know who the report stated that the investor lent a lot of money to after the housing market crashed . <eos>
+I know who the accountant said that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out who the investigator thought that the evil businessman sold a broken car to yesterday . <eos>
+I realized who my friend remembered that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed what the narrator believed that the suffering artist created a painting about last winter . <eos>
+We all know what our friend thought that the young politician said a few remarks about a week before the voting . <eos>
+I know who my coworker said that the young professional assembled a fancy meal for last night . <eos>
+My friends all know what their mentor said that the businessman left her computer in this afternoon . <eos>
+The visitor said who her friend knew that the elderly lady described her morning routine to during the card game . <eos>
+I know what my friend said that the single mother called her father for late at night . <eos>
+The colleagues realized who their person believed that the human resources officer found a spare computer cord for yesterday . <eos>
+She said who her mother stated that the five star general awarded a medal to over the weekend . <eos>
+We all know what the politician stated that the journalist put his tape recorder on top of during the press conference . <eos>
+I know that our mother said that her friend remarked that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that a friend said that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that your friend gave to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the secretary introduced to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the pilot sent to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the witty actor told about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the young woman bought for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the successful architect built for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that the investor lent to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the suffering artist created about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that the young politician said about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that the young professional assembled for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the businessman left in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the elderly lady described to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the single mother called for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that the human resources officer found for the intern yesterday . <eos>
+She said that her mother stated that a friend said that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the journalist put on top of the table during the press conference . <eos>
+I know what our mother said that her friend remarked that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me what the man knew that his friend recalled that the pilot sent a present to his family when we landed . <eos>
+We discovered what our friends argued that the guests recalled that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the worker said that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows what her mother heard that the newspaper reported that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered what the judge thought that the cop said that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the television host thought that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know what the accountant said that his colleague recalled that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the journalists said that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the local businessman believed that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the professor said that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know what my coworker said that her college roommate knew that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know who their mentor said that the secretary believed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said what her friend knew that the delivery man believed that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know who my friend said that her mother knew that the single mother called her father for advice late at night . <eos>
+The colleagues realized what their person believed that the secretary said that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said what her mother stated that a friend said that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that his press secretary said that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know what our mother said that her friend remarked that your friend gave to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the secretary introduced to her friend last night . <eos>
+The assistant told me what the man knew that his friend recalled that the pilot sent to his family when we landed . <eos>
+We discovered what our friends argued that the guests recalled that the witty actor told about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the worker said that the young woman bought for her parents in a rush . <eos>
+My friend knows what her mother heard that the newspaper reported that the successful architect built for her mother last year . <eos>
+The commissioner discovered what the judge thought that the cop said that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the television host thought that the investor lent to his daughter after the housing market crashed . <eos>
+I know what the accountant said that his colleague recalled that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the journalists said that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the local businessman believed that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the professor said that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the suffering artist created about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that the young politician said about immigration a week before the voting . <eos>
+I know what my coworker said that her college roommate knew that the young professional assembled for his parents last night . <eos>
+My friends all know who their mentor said that the secretary believed that the businessman left in the office this afternoon . <eos>
+The visitor said what her friend knew that the delivery man believed that the elderly lady described to her friends during the card game . <eos>
+I know who my friend said that her mother knew that the single mother called for advice late at night . <eos>
+The colleagues realized what their person believed that the secretary said that the human resources officer found for the intern yesterday . <eos>
+She said what her mother stated that a friend said that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that his press secretary said that the journalist put on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that a friend said that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that your friend gave a gift to last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the secretary introduced the young man to last night . <eos>
+The assistant told me that the man knew that his friend recalled that the pilot sent a present to when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the young woman bought some flowers for in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the successful architect built a house for last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that the investor lent a lot of money to after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the evil businessman sold a broken car to yesterday . <eos>
+I realized that my friend remembered that the professor said that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the suffering artist created a painting about last winter . <eos>
+We all know that our friend thought that the reporter knows that the young politician said a few remarks about a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that the young professional assembled a fancy meal for last night . <eos>
+My friends all know that their mentor said that the secretary believed that the businessman left her computer in this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the elderly lady described her morning routine to during the card game . <eos>
+I know that my friend said that her mother knew that the single mother called her father for late at night . <eos>
+The colleagues realized that their person believed that the secretary said that the human resources officer found a spare computer cord for yesterday . <eos>
+She said that her mother stated that a friend said that the five star general awarded a medal to over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the journalist put his tape recorder on top of during the press conference . <eos>
+I know who our mother said that her friend remarked that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me who the man knew that his friend recalled that the pilot sent a present to his family when we landed . <eos>
+We discovered who our friends argued that the guests recalled that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out who the delivery boy remarked that the worker said that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows who her mother heard that the newspaper reported that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered who the judge thought that the cop said that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know who the report stated that the television host thought that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know who the accountant said that his colleague recalled that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the journalists said that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out who the investigator thought that the local businessman believed that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized who my friend remembered that the professor said that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know who my coworker said that her college roommate knew that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know what their mentor said that the secretary believed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said who her friend knew that the delivery man believed that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know what my friend said that her mother knew that the single mother called her father for advice late at night . <eos>
+The colleagues realized who their person believed that the secretary said that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said who her mother stated that a friend said that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know what the politician stated that his press secretary said that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know who our mother said that her friend remarked that your friend gave a gift to last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the secretary introduced the young man to last night . <eos>
+The assistant told me who the man knew that his friend recalled that the pilot sent a present to when we landed . <eos>
+We discovered who our friends argued that the guests recalled that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out who the delivery boy remarked that the worker said that the young woman bought some flowers for in a rush . <eos>
+My friend knows who her mother heard that the newspaper reported that the successful architect built a house for last year . <eos>
+The commissioner discovered who the judge thought that the cop said that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know who the report stated that the television host thought that the investor lent a lot of money to after the housing market crashed . <eos>
+I know who the accountant said that his colleague recalled that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the journalists said that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out who the investigator thought that the local businessman believed that the evil businessman sold a broken car to yesterday . <eos>
+I realized who my friend remembered that the professor said that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the suffering artist created a painting about last winter . <eos>
+We all know what our friend thought that the reporter knows that the young politician said a few remarks about a week before the voting . <eos>
+I know who my coworker said that her college roommate knew that the young professional assembled a fancy meal for last night . <eos>
+My friends all know what their mentor said that the secretary believed that the businessman left her computer in this afternoon . <eos>
+The visitor said who her friend knew that the delivery man believed that the elderly lady described her morning routine to during the card game . <eos>
+I know what my friend said that her mother knew that the single mother called her father for late at night . <eos>
+The colleagues realized who their person believed that the secretary said that the human resources officer found a spare computer cord for yesterday . <eos>
+She said who her mother stated that a friend said that the five star general awarded a medal to over the weekend . <eos>
+We all know what the politician stated that his press secretary said that the journalist put his tape recorder on top of during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that your friend gave to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the secretary introduced to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the pilot sent to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the witty actor told about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the young woman bought for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that the successful architect built for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the investor lent to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that the suffering artist created about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the young politician said about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the businessman left in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that the elderly lady described to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the single mother called for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the human resources officer found for the intern yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the journalist put on top of the table during the press conference . <eos>
+I know what our mother said that her friend remarked that the park attendant wondered that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me what the man knew that his friend recalled that the woman said that the pilot sent a present to his family when we landed . <eos>
+We discovered what our friends argued that the guests recalled that the chef knew that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the worker said that the gardener knew that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows what her mother heard that the newspaper reported that the mayor said that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered what the judge thought that the cop said that the man testified that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the television host thought that her friend reported that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know what the accountant said that his colleague recalled that the partners knew that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the journalists said that the workers decided that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the local businessman believed that the banker said that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the professor said that his colleague noticed that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know what my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know who their mentor said that the secretary believed that the worker testified that the businessman left her computer in the office this afternoon . <eos>
+The visitor said what her friend knew that the delivery man believed that the cop remembered that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know who my friend said that her mother knew that the bishop stated that the single mother called her father for advice late at night . <eos>
+The colleagues realized what their person believed that the secretary said that her friend recalled that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said what her mother stated that a friend said that her husband knew that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that his press secretary said that the chief of staff thought that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know what our mother said that her friend remarked that the park attendant wondered that your friend gave to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the secretary introduced to her friend last night . <eos>
+The assistant told me what the man knew that his friend recalled that the woman said that the pilot sent to his family when we landed . <eos>
+We discovered what our friends argued that the guests recalled that the chef knew that the witty actor told about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the worker said that the gardener knew that the young woman bought for her parents in a rush . <eos>
+My friend knows what her mother heard that the newspaper reported that the mayor said that the successful architect built for her mother last year . <eos>
+The commissioner discovered what the judge thought that the cop said that the man testified that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the television host thought that her friend reported that the investor lent to his daughter after the housing market crashed . <eos>
+I know what the accountant said that his colleague recalled that the partners knew that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the journalists said that the workers decided that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the local businessman believed that the banker said that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the professor said that his colleague noticed that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that the suffering artist created about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the young politician said about immigration a week before the voting . <eos>
+I know what my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled for his parents last night . <eos>
+My friends all know who their mentor said that the secretary believed that the worker testified that the businessman left in the office this afternoon . <eos>
+The visitor said what her friend knew that the delivery man believed that the cop remembered that the elderly lady described to her friends during the card game . <eos>
+I know who my friend said that her mother knew that the bishop stated that the single mother called for advice late at night . <eos>
+The colleagues realized what their person believed that the secretary said that her friend recalled that the human resources officer found for the intern yesterday . <eos>
+She said what her mother stated that a friend said that her husband knew that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that his press secretary said that the chief of staff thought that the journalist put on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that your friend gave a gift to last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the secretary introduced the young man to last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the pilot sent a present to when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the young woman bought some flowers for in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that the successful architect built a house for last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the investor lent a lot of money to after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that the evil businessman sold a broken car to yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that the suffering artist created a painting about last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the young politician said a few remarks about a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled a fancy meal for last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the businessman left her computer in this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that the elderly lady described her morning routine to during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the single mother called her father for late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the human resources officer found a spare computer cord for yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the five star general awarded a medal to over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the journalist put his tape recorder on top of during the press conference . <eos>
+I know who our mother said that her friend remarked that the park attendant wondered that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me who the man knew that his friend recalled that the woman said that the pilot sent a present to his family when we landed . <eos>
+We discovered who our friends argued that the guests recalled that the chef knew that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out who the delivery boy remarked that the worker said that the gardener knew that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows who her mother heard that the newspaper reported that the mayor said that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered who the judge thought that the cop said that the man testified that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know who the report stated that the television host thought that her friend reported that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know who the accountant said that his colleague recalled that the partners knew that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the journalists said that the workers decided that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out who the investigator thought that the local businessman believed that the banker said that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized who my friend remembered that the professor said that his colleague noticed that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know who my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know what their mentor said that the secretary believed that the worker testified that the businessman left her computer in the office this afternoon . <eos>
+The visitor said who her friend knew that the delivery man believed that the cop remembered that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know what my friend said that her mother knew that the bishop stated that the single mother called her father for advice late at night . <eos>
+The colleagues realized who their person believed that the secretary said that her friend recalled that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said who her mother stated that a friend said that her husband knew that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know what the politician stated that his press secretary said that the chief of staff thought that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know who our mother said that her friend remarked that the park attendant wondered that your friend gave a gift to last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the secretary introduced the young man to last night . <eos>
+The assistant told me who the man knew that his friend recalled that the woman said that the pilot sent a present to when we landed . <eos>
+We discovered who our friends argued that the guests recalled that the chef knew that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out who the delivery boy remarked that the worker said that the gardener knew that the young woman bought some flowers for in a rush . <eos>
+My friend knows who her mother heard that the newspaper reported that the mayor said that the successful architect built a house for last year . <eos>
+The commissioner discovered who the judge thought that the cop said that the man testified that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know who the report stated that the television host thought that her friend reported that the investor lent a lot of money to after the housing market crashed . <eos>
+I know who the accountant said that his colleague recalled that the partners knew that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the journalists said that the workers decided that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out who the investigator thought that the local businessman believed that the banker said that the evil businessman sold a broken car to yesterday . <eos>
+I realized who my friend remembered that the professor said that his colleague noticed that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that the suffering artist created a painting about last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the young politician said a few remarks about a week before the voting . <eos>
+I know who my coworker said that her college roommate knew that a mutual friend stated that the young professional assembled a fancy meal for last night . <eos>
+My friends all know what their mentor said that the secretary believed that the worker testified that the businessman left her computer in this afternoon . <eos>
+The visitor said who her friend knew that the delivery man believed that the cop remembered that the elderly lady described her morning routine to during the card game . <eos>
+I know what my friend said that her mother knew that the bishop stated that the single mother called her father for late at night . <eos>
+The colleagues realized who their person believed that the secretary said that her friend recalled that the human resources officer found a spare computer cord for yesterday . <eos>
+She said who her mother stated that a friend said that her husband knew that the five star general awarded a medal to over the weekend . <eos>
+We all know what the politician stated that his press secretary said that the chief of staff thought that the journalist put his tape recorder on top of during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the city official knew that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the banker recalled that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the person said that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the city official knew that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the banker recalled that the investor lent to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the person said that the single mother called for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found for the intern yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put on top of the table during the press conference . <eos>
+I know what our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me what the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent a present to his family when we landed . <eos>
+We discovered what our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows what her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered what the judge thought that the cop said that the man testified that the city official knew that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the television host thought that her friend reported that the banker recalled that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know what the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know what my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know who their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said what her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know who my friend said that her mother knew that the bishop stated that the person said that the single mother called her father for advice late at night . <eos>
+The colleagues realized what their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said what her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know what our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced to her friend last night . <eos>
+The assistant told me what the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent to his family when we landed . <eos>
+We discovered what our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told about the woman during the party . <eos>
+The neighbors found out what the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought for her parents in a rush . <eos>
+My friend knows what her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built for her mother last year . <eos>
+The commissioner discovered what the judge thought that the cop said that the man testified that the city official knew that the police detective handed to the man in the trench coat just a few minutes ago . <eos>
+We all know what the report stated that the television host thought that her friend reported that the banker recalled that the investor lent to his daughter after the housing market crashed . <eos>
+I know what the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid to the mafia kingpin when he had enough money . <eos>
+The newspaper reported what the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised to the factory workers during the speech . <eos>
+Her friend found out what the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold to the innocent couple yesterday . <eos>
+I realized what my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said about immigration a week before the voting . <eos>
+I know what my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled for his parents last night . <eos>
+My friends all know who their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left in the office this afternoon . <eos>
+The visitor said what her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described to her friends during the card game . <eos>
+I know who my friend said that her mother knew that the bishop stated that the person said that the single mother called for advice late at night . <eos>
+The colleagues realized what their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found for the intern yesterday . <eos>
+She said what her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded to the fighter pilot over the weekend . <eos>
+We all know who the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent a present to his family when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the city official knew that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the banker recalled that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created a painting about tragic love last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the person said that the single mother called her father for advice late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know that our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave a gift to last weekend . <eos>
+The accountant wondered that the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced the young man to last night . <eos>
+The assistant told me that the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent a present to when we landed . <eos>
+We discovered that our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out that the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought some flowers for in a rush . <eos>
+My friend knows that her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built a house for last year . <eos>
+The commissioner discovered that the judge thought that the cop said that the man testified that the city official knew that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know that the report stated that the television host thought that her friend reported that the banker recalled that the investor lent a lot of money to after the housing market crashed . <eos>
+I know that the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported that the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out that the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold a broken car to yesterday . <eos>
+I realized that my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed that the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created a painting about last winter . <eos>
+We all know that our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said a few remarks about a week before the voting . <eos>
+I know that my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled a fancy meal for last night . <eos>
+My friends all know that their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left her computer in this afternoon . <eos>
+The visitor said that her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described her morning routine to during the card game . <eos>
+I know that my friend said that her mother knew that the bishop stated that the person said that the single mother called her father for late at night . <eos>
+The colleagues realized that their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found a spare computer cord for yesterday . <eos>
+She said that her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded a medal to over the weekend . <eos>
+We all know that the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put his tape recorder on top of during the press conference . <eos>
+I know who our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave a gift to Mary last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced the young man to her friend last night . <eos>
+The assistant told me who the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent a present to his family when we landed . <eos>
+We discovered who our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told an embarrassing story about the woman during the party . <eos>
+The neighbors found out who the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought some flowers for her parents in a rush . <eos>
+My friend knows who her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built a house for her mother last year . <eos>
+The commissioner discovered who the judge thought that the cop said that the man testified that the city official knew that the police detective handed a wad of cash to the man in the trench coat just a few minutes ago . <eos>
+We all know who the report stated that the television host thought that her friend reported that the banker recalled that the investor lent a lot of money to his daughter after the housing market crashed . <eos>
+I know who the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid his debt to the mafia kingpin when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised a good retirement plan to the factory workers during the speech . <eos>
+Her friend found out who the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold a broken car to the innocent couple yesterday . <eos>
+I realized who my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told a joke to the guests over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created a painting about tragic love last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said a few remarks about immigration a week before the voting . <eos>
+I know who my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled a fancy meal for his parents last night . <eos>
+My friends all know what their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left her computer in the office this afternoon . <eos>
+The visitor said who her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described her morning routine to her friends during the card game . <eos>
+I know what my friend said that her mother knew that the bishop stated that the person said that the single mother called her father for advice late at night . <eos>
+The colleagues realized who their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found a spare computer cord for the intern yesterday . <eos>
+She said who her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded a medal to the fighter pilot over the weekend . <eos>
+We all know what the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put his tape recorder on top of the table during the press conference . <eos>
+I know who our mother said that her friend remarked that the park attendant wondered that the people stated that your friend gave a gift to last weekend . <eos>
+The accountant wondered who the security guard believed that his friend knew that the assistant reported that the man warned that the secretary introduced the young man to last night . <eos>
+The assistant told me who the man knew that his friend recalled that the woman said that the security guard decided that the pilot sent a present to when we landed . <eos>
+We discovered who our friends argued that the guests recalled that the chef knew that the maid claimed that the witty actor told an embarrassing story about during the party . <eos>
+The neighbors found out who the delivery boy remarked that the worker said that the gardener knew that the maid reported that the young woman bought some flowers for in a rush . <eos>
+My friend knows who her mother heard that the newspaper reported that the mayor said that her friend warned that the successful architect built a house for last year . <eos>
+The commissioner discovered who the judge thought that the cop said that the man testified that the city official knew that the police detective handed a wad of cash to just a few minutes ago . <eos>
+We all know who the report stated that the television host thought that her friend reported that the banker recalled that the investor lent a lot of money to after the housing market crashed . <eos>
+I know who the accountant said that his colleague recalled that the partners knew that the spy stated that the sad businessman repaid his debt to when he had enough money . <eos>
+The newspaper reported who the press secretary remarked that the journalists said that the workers decided that the video recording showed that the administrator promised a good retirement plan to during the speech . <eos>
+Her friend found out who the investigator thought that the local businessman believed that the banker said that his friend stated that the evil businessman sold a broken car to yesterday . <eos>
+I realized who my friend remembered that the professor said that his colleague noticed that the department chair knew that the foreign visitor told a joke to over dinner . <eos>
+The novel revealed what the narrator believed that his nemesis suspected that the colonel said that his young wife thought that the suffering artist created a painting about last winter . <eos>
+We all know what our friend thought that the reporter knows that her contact said that the eye witness recalled that the young politician said a few remarks about a week before the voting . <eos>
+I know who my coworker said that her college roommate knew that a mutual friend stated that her mother believed that the young professional assembled a fancy meal for last night . <eos>
+My friends all know what their mentor said that the secretary believed that the worker testified that the security guard noticed that the businessman left her computer in this afternoon . <eos>
+The visitor said who her friend knew that the delivery man believed that the cop remembered that his wife thought that the elderly lady described her morning routine to during the card game . <eos>
+I know what my friend said that her mother knew that the bishop stated that the person said that the single mother called her father for late at night . <eos>
+The colleagues realized who their person believed that the secretary said that her friend recalled that the receptionist knew that the human resources officer found a spare computer cord for yesterday . <eos>
+She said who her mother stated that a friend said that her husband knew that the newspaper reported that the five star general awarded a medal to over the weekend . <eos>
+We all know what the politician stated that his press secretary said that the chief of staff thought that the old man argued that the journalist put his tape recorder on top of during the press conference . <eos>

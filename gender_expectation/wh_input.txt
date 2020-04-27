@@ -1,0 +1,180 @@
+The actress said they fired her friend . <eos>
+The bride knows they followed her advice . <eos>
+The countess said they obeyed her orders . <eos>
+My wife knows they liked her recipe . <eos>
+The witch guessed the drank her potion . <eos>
+The goddess thinks they worshiped her likeness . <eos>
+My aunt remembers they devoured her cake . <eos>
+The lady knows they complimented her dress . <eos>
+The princess recalls they stole her jewels . <eos>
+The girl knows they liked her poem . <eos>
+The queen knows they followed her edict . <eos>
+Your mother knows they invited her friends . <eos>
+The waitress remembers they discussed her salary . <eos>
+The mistress recalls they accepted her proposal . <eos>
+The boy knows they envied his toy . <eos>
+The knight knows they fed his horse . <eos>
+The chairman guessed they took his advice . <eos>
+The king knows they attacked his army . <eos>
+The fireman knows they save his friend . <eos>
+The emperor remembers they accepted his invitation . <eos>
+His uncle knows they laughed at his joke . <eos>
+The bishop guessed they accepted his prayer . <eos>
+My brother knows they liked his suggestion . <eos>
+The bachelor remembers they cleaned his apartment . <eos>
+The count guessed they stole his money . <eos>
+The policeman knows they murdered his partner . <eos>
+The clergyman guessed they washed his robes . <eos>
+The mailman recalls they fixed his car . <eos>
+The man knows they knew his friend . <eos>
+Your husband knows they liked his suggestion . <eos>
+The actress said they fired his friend . <eos>
+The bride knows they followed his advice . <eos>
+The countess said they obeyed his orders . <eos>
+My wife knows they liked his recipe . <eos>
+The witch guessed the drank his potion . <eos>
+The goddess thinks they worshiped his likeness . <eos>
+My aunt remembers they devoured his cake . <eos>
+The lady knows they complimented his dress . <eos>
+The princess recalls they stole his jewels . <eos>
+The girl knows they liked his poem . <eos>
+The queen knows they followed his edict . <eos>
+Your mother knows they invited his friends . <eos>
+The waitress remembers they discussed his salary . <eos>
+The mistress recalls they accepted his proposal . <eos>
+The boy knows they envied her toy . <eos>
+The knight knows they fed her horse . <eos>
+The chairman guessed they took her advice . <eos>
+The king knows they attacked her army . <eos>
+The fireman knows they save her friend . <eos>
+The emperor remembers they accepted her invitation . <eos>
+His uncle knows they laughed at her joke . <eos>
+The bishop guessed they accepted her prayer . <eos>
+My brother knows they liked her suggestion . <eos>
+The bachelor remembers they cleaned her apartment . <eos>
+The count guessed they stole her money . <eos>
+The policeman knows they murdered her partner . <eos>
+The clergyman guessed they washed her robes . <eos>
+The mailman recalls they fixed her car . <eos>
+The man knows they knew her friend . <eos>
+Your husband knows they liked her suggestion . <eos>
+The actress said that they fired her friend . <eos>
+The bride knows that they followed her advice . <eos>
+The countess said that they obeyed her orders . <eos>
+My wife knows that they liked her recipe . <eos>
+The witch guessed that the drank her potion . <eos>
+The goddess thinks that they worshiped her likeness . <eos>
+My aunt remembers that they devoured her cake . <eos>
+The lady knows that they complimented her dress . <eos>
+The princess recalls that they stole her jewels . <eos>
+The girl knows that they liked her poem . <eos>
+The queen knows that they followed her edict . <eos>
+Your mother knows that they invited her friends . <eos>
+The waitress remembers that they discussed her salary . <eos>
+The mistress recalls that they accepted her proposal . <eos>
+The boy knows that they envied his toy . <eos>
+The knight knows that they fed his horse . <eos>
+The chairman guessed that they took his advice . <eos>
+The king knows that they attacked his army . <eos>
+The fireman knows that they save his friend . <eos>
+The emperor remembers that they accepted his invitation . <eos>
+His uncle knows that they laughed at his joke . <eos>
+The bishop guessed that they accepted his prayer . <eos>
+My brother knows that they liked his suggestion . <eos>
+The bachelor remembers that they cleaned his apartment . <eos>
+The count guessed that they stole his money . <eos>
+The policeman knows that they murdered his partner . <eos>
+The clergyman guessed that they washed his robes . <eos>
+The mailman recalls that they fixed his car . <eos>
+The man knows that they knew his friend . <eos>
+Your husband knows that they liked his suggestion . <eos>
+The actress said that they fired his friend . <eos>
+The bride knows that they followed his advice . <eos>
+The countess said that they obeyed his orders . <eos>
+My wife knows that they liked his recipe . <eos>
+The witch guessed that the drank his potion . <eos>
+The goddess thinks that they worshiped his likeness . <eos>
+My aunt remembers that they devoured his cake . <eos>
+The lady knows that they complimented his dress . <eos>
+The princess recalls that they stole his jewels . <eos>
+The girl knows that they liked his poem . <eos>
+The queen knows that they followed his edict . <eos>
+Your mother knows that they invited his friends . <eos>
+The waitress remembers that they discussed his salary . <eos>
+The mistress recalls that they accepted his proposal . <eos>
+The boy knows that they envied her toy . <eos>
+The knight knows that they fed her horse . <eos>
+The chairman guessed that they took her advice . <eos>
+The king knows that they attacked her army . <eos>
+The fireman knows that they save her friend . <eos>
+The emperor remembers that they accepted her invitation . <eos>
+His uncle knows that they laughed at her joke . <eos>
+The bishop guessed that they accepted her prayer . <eos>
+My brother knows that they liked her suggestion . <eos>
+The bachelor remembers that they cleaned her apartment . <eos>
+The count guessed that they stole her money . <eos>
+The policeman knows that they murdered her partner . <eos>
+The clergyman guessed that they washed her robes . <eos>
+The mailman recalls that they fixed her car . <eos>
+The man knows that they knew her friend . <eos>
+Your husband knows that they liked her suggestion . <eos>
+The actress said whether they fired her friend . <eos>
+The bride knows whether they followed her advice . <eos>
+The countess said whether they obeyed her orders . <eos>
+My wife knows whether they liked her recipe . <eos>
+The witch guessed whether the drank her potion . <eos>
+The goddess thinks whether they worshiped her likeness . <eos>
+My aunt remembers whether they devoured her cake . <eos>
+The lady knows whether they complimented her dress . <eos>
+The princess recalls whether they stole her jewels . <eos>
+The girl knows whether they liked her poem . <eos>
+The queen knows whether they followed her edict . <eos>
+Your mother knows whether they invited her friends . <eos>
+The waitress remembers whether they discussed her salary . <eos>
+The mistress recalls whether they accepted her proposal . <eos>
+The boy knows whether they envied his toy . <eos>
+The knight knows whether they fed his horse . <eos>
+The chairman guessed whether they took his advice . <eos>
+The king knows whether they attacked his army . <eos>
+The fireman knows whether they save his friend . <eos>
+The emperor remembers whether they accepted his invitation . <eos>
+His uncle knows whether they laughed at his joke . <eos>
+The bishop guessed whether they accepted his prayer . <eos>
+My brother knows whether they liked his suggestion . <eos>
+The bachelor remembers whether they cleaned his apartment . <eos>
+The count guessed whether they stole his money . <eos>
+The policeman knows whether they murdered his partner . <eos>
+The clergyman guessed whether they washed his robes . <eos>
+The mailman recalls whether they fixed his car . <eos>
+The man knows whether they knew his friend . <eos>
+Your husband knows whether they liked his suggestion . <eos>
+The actress said whether they fired his friend . <eos>
+The bride knows whether they followed his advice . <eos>
+The countess said whether they obeyed his orders . <eos>
+My wife knows whether they liked his recipe . <eos>
+The witch guessed whether the drank his potion . <eos>
+The goddess thinks whether they worshiped his likeness . <eos>
+My aunt remembers whether they devoured his cake . <eos>
+The lady knows whether they complimented his dress . <eos>
+The princess recalls whether they stole his jewels . <eos>
+The girl knows whether they liked his poem . <eos>
+The queen knows whether they followed his edict . <eos>
+Your mother knows whether they invited his friends . <eos>
+The waitress remembers whether they discussed his salary . <eos>
+The mistress recalls whether they accepted his proposal . <eos>
+The boy knows whether they envied her toy . <eos>
+The knight knows whether they fed her horse . <eos>
+The chairman guessed whether they took her advice . <eos>
+The king knows whether they attacked her army . <eos>
+The fireman knows whether they save her friend . <eos>
+The emperor remembers whether they accepted her invitation . <eos>
+His uncle knows whether they laughed at her joke . <eos>
+The bishop guessed whether they accepted her prayer . <eos>
+My brother knows whether they liked her suggestion . <eos>
+The bachelor remembers whether they cleaned her apartment . <eos>
+The count guessed whether they stole her money . <eos>
+The policeman knows whether they murdered her partner . <eos>
+The clergyman guessed whether they washed her robes . <eos>
+The mailman recalls whether they fixed her car . <eos>
+The man knows whether they knew her friend . <eos>
+Your husband knows whether they liked her suggestion . <eos>

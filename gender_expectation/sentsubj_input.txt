@@ -1,0 +1,120 @@
+The actress knows they will save her friend . <eos>
+The bride believes they fulfilled her request . <eos>
+The countess thinks they carried out her orders . <eos>
+My wife thinks they will reject her application . <eos>
+The witch hopes they drank her potion . <eos>
+The goddess knows they will worship her likeness . <eos>
+My aunt hopes they tasted her pudding . <eos>
+The lady thinks they met her friends . <eos>
+The princess believes they will clean her stables . <eos>
+The girl hopes they read her poem . <eos>
+The queen believes they will murder her nephew . <eos>
+Your mother knows they will accept her invitation . <eos>
+The waitress hopes they will increase her salary . <eos>
+The mistress hopes they will listen to her worries . <eos>
+The boy hopes they will find his dog . <eos>
+The knight thinks they will feed his horse . <eos>
+The chairman worries they will listen to his recommendation . <eos>
+The king hopes they will obey his edict . <eos>
+The fireman thinks they will save his colleague . <eos>
+The emperor believes they will accept his ambassador . <eos>
+His uncle knows they will heed his advice . <eos>
+The bishop knows they will listen to his prayer . <eos>
+My brother believes they will replace his computer . <eos>
+The bachelor thinks they will clean his apartment . <eos>
+The count believes they will steal his paintings . <eos>
+The policeman worries they murdered his partner . <eos>
+The clergyman thinks they will ignore his council . <eos>
+The mailman thinks they will wash his uniform . <eos>
+The man worries they will disagree with his decision . <eos>
+Your husband hopes they will like his wife . <eos>
+The actress knows they will save his friend . <eos>
+The bride believes they fulfilled his request . <eos>
+The countess thinks they carried out his orders . <eos>
+My wife thinks they will reject his application . <eos>
+The witch hopes they drank his potion . <eos>
+The goddess knows they will worship his likeness . <eos>
+My aunt hopes they tasted his pudding . <eos>
+The lady thinks they met his friends . <eos>
+The princess believes they will clean his stables . <eos>
+The girl hopes they read his poem . <eos>
+The queen believes they will murder his nephew . <eos>
+Your mother knows they will accept his invitation . <eos>
+The waitress hopes they will increase his salary . <eos>
+The mistress hopes they will listen to his worries . <eos>
+The boy hopes they will find her dog . <eos>
+The knight thinks they will feed her horse . <eos>
+The chairman worries they will listen to her recommendation . <eos>
+The king hopes they will obey her edict . <eos>
+The fireman thinks they will save her colleague . <eos>
+The emperor believes they will accept her ambassador . <eos>
+His uncle knows they will heed her advice . <eos>
+The bishop knows they will listen to her prayer . <eos>
+My brother believes they will replace her computer . <eos>
+The bachelor thinks they will clean her apartment . <eos>
+The count believes they will steal her paintings . <eos>
+The policeman worries they murdered her partner . <eos>
+The clergyman thinks they will ignore her council . <eos>
+The mailman thinks they will wash her uniform . <eos>
+The man worries they will disagree with her decision . <eos>
+Your husband hopes they will like her wife . <eos>
+The actress knows for them to save her friend will be easy . <eos>
+The bride believes for them to fulfill her request will be easy . <eos>
+The countess thinks for them to carry out her orders will be easy . <eos>
+My wife thinks for them to reject her application will be easy . <eos>
+The witch hopes for them to drink her potion will be easy . <eos>
+The goddess knows for them to worship her likeness will be easy . <eos>
+My aunt hopes for them to taste her pudding will be easy . <eos>
+The lady thinks for them to meet her friends will be easy . <eos>
+The princess believes for them to clean her stables will be easy . <eos>
+The girl hopes for them to read her poem will be easy . <eos>
+The queen believes for them to murder her nephew will be easy . <eos>
+Your mother knows for them to accept her invitation will be easy . <eos>
+The waitress hopes for them to increase her salary will be easy . <eos>
+The mistress hopes for them to listen to her worries will be easy . <eos>
+The boy hopes for them to find his dog will be easy . <eos>
+The knight thinks for them to feed his horse will be easy . <eos>
+The chairman worries for them to listen to his recommendation will be easy . <eos>
+The king hopes for them to obey his edict will be easy . <eos>
+The fireman thinks for them to save his colleague will be easy . <eos>
+The emperor believes for them to accept his ambassador will be easy . <eos>
+His uncle knows for them to heed his advice will be easy . <eos>
+The bishop knows for them to listen to his prayer will be easy . <eos>
+My brother believes for them to replace his computer will be easy . <eos>
+The bachelor thinks for them to clean his apartment will be easy . <eos>
+The count believes for them to steal his paintings will be difficult . <eos>
+The policeman worries for them to murder his partner will be easy . <eos>
+The clergyman thinks for them to ignore his council will be easy . <eos>
+The mailman thinks for them to wash his uniform will be easy . <eos>
+The man worries for them to disagree with his decision will be easy . <eos>
+Your husband hopes for them to like his wife will be easy . <eos>
+The actress knows for them to save his friend will be easy . <eos>
+The bride believes for them to fulfill his request will be easy . <eos>
+The countess thinks for them to carry out his orders will be easy . <eos>
+My wife thinks for them to reject his application will be easy . <eos>
+The witch hopes for them to drink his potion will be easy . <eos>
+The goddess knows for them to worship his likeness will be easy . <eos>
+My aunt hopes for them to taste his pudding will be easy . <eos>
+The lady thinks for them to meet his friends will be easy . <eos>
+The princess believes for them to clean his stables will be easy . <eos>
+The girl hopes for them to read his poem will be easy . <eos>
+The queen believes for them to murder his nephew will be easy . <eos>
+Your mother knows for them to accept his invitation will be easy . <eos>
+The waitress hopes for them to increase his salary will be easy . <eos>
+The mistress hopes for them to listen to his worries will be easy . <eos>
+The boy hopes for them to find her dog will be easy . <eos>
+The knight thinks for them to feed her horse will be easy . <eos>
+The chairman worries for them to listen to her recommendation will be easy . <eos>
+The king hopes for them to obey her edict will be easy . <eos>
+The fireman thinks for them to save her colleague will be easy . <eos>
+The emperor believes for them to accept her ambassador will be easy . <eos>
+His uncle knows for them to heed her advice will be easy . <eos>
+The bishop knows for them to listen to her prayer will be easy . <eos>
+My brother believes for them to replace her computer will be easy . <eos>
+The bachelor thinks for them to clean her apartment will be easy . <eos>
+The count believes for them to steal her paintings will be difficult . <eos>
+The policeman worries for them to murder her partner will be easy . <eos>
+The clergyman thinks for them to ignore her council will be easy . <eos>
+The mailman thinks for them to wash her uniform will be easy . <eos>
+The man worries for them to disagree with her decision will be easy . <eos>
+Your husband hopes for them to like her wife will be easy . <eos>

@@ -1,0 +1,120 @@
+The actress said they saw her performance . <eos>
+The bride believes they lost her ring . <eos>
+The countess worries they tunneled under her castle . <eos>
+His wife believes they dislike her recipe . <eos>
+The witch believes they drank her potion . <eos>
+The goddess knows they admired her likeness . <eos>
+Her aunt said they know her friend . <eos>
+The lady believes they misplaced her dress . <eos>
+The princess knows they are searching for her jewels . <eos>
+The girl believes they love her mother . <eos>
+The queen knows they take pride in her sovereignty . <eos>
+Her mother thinks they like her friend . <eos>
+The waitress believes they stole her paycheck . <eos>
+The mistress thinks they saw her artwork . <eos>
+The boy thinks they lost his airplane . <eos>
+The knight suspects they mistreated his squire . <eos>
+The chairman worries they misplaced his papers . <eos>
+The king worries they detest his wife . <eos>
+The fireman wonders if they found his axe . <eos>
+The emperor knows they are awed by his palace . <eos>
+His uncle hopes they like his son . <eos>
+The bishop knows they love his congregants . <eos>
+His brother believes they hid his watch . <eos>
+The bachelor thinks they tore up his letter . <eos>
+The count knows they breached his castle . <eos>
+The policeman wonders whether they like his friend . <eos>
+The clergyman thinks they penned his congregants . <eos>
+The mailman worries they stole his letter . <eos>
+The man believes they found his wallet . <eos>
+Your husband knows they dislike his favorite song . <eos>
+The actress said they saw his performance . <eos>
+The bride believes they lost his ring . <eos>
+The countess worries they tunneled under his castle . <eos>
+His wife believes they dislike his recipe . <eos>
+The witch believes they drank his potion . <eos>
+The goddess knows they admired his likeness . <eos>
+Her aunt said they know his friend . <eos>
+The lady believes they misplaced his dress . <eos>
+The princess knows they are searching for his jewels . <eos>
+The girl believes they love his mother . <eos>
+The queen knows they take pride in his sovereignty . <eos>
+Her mother thinks they like his friend . <eos>
+The waitress believes they stole his paycheck . <eos>
+The mistress thinks they saw his artwork . <eos>
+The boy thinks they lost her airplane . <eos>
+The knight suspects they mistreated her squire . <eos>
+The chairman worries they misplaced her papers . <eos>
+The king worries they detest her wife . <eos>
+The fireman wonders if they found her axe . <eos>
+The emperor knows they are awed by her palace . <eos>
+His uncle hopes they like her son . <eos>
+The bishop knows they love her congregants . <eos>
+His brother believes they hid her watch . <eos>
+The bachelor thinks they tore up her letter . <eos>
+The count knows they breached her castle . <eos>
+The policeman wonders whether they like her friend . <eos>
+The clergyman thinks they penned her congregants . <eos>
+The mailman worries they stole her letter . <eos>
+The man believes they found her wallet . <eos>
+Your husband knows they dislike her favorite song . <eos>
+The actress said they saw the exhibit that featured her performance . <eos>
+The bride believes they lost the box that contained her ring . <eos>
+The countess worries they tunneled under the wall that encircles her castle . <eos>
+His wife believes they dislike the book that features her recipe . <eos>
+The witch believes they drank the brew that contained her potion . <eos>
+The goddess knows they admired the painting that depicted her likeness . <eos>
+Her aunt said they know the song that was written by her friend . <eos>
+The lady believes they misplaced the bag that contained her dress . <eos>
+The princess knows they are searching for the vault that houses her jewels . <eos>
+The girl believes they love the dish that was cooked by her mother . <eos>
+The queen knows they take pride in the song that honors her sovereignty . <eos>
+Her mother thinks they like the novel that was written by her friend . <eos>
+The waitress believes they stole the envelope that contained her paycheck . <eos>
+The mistress thinks they saw the gallery that features her artwork . <eos>
+The boy thinks they lost the box that contains his airplane . <eos>
+The knight suspects they mistreated the horse that belongs to his squire . <eos>
+The chairman worries they misplaced the dossier that holds his papers . <eos>
+The king worries they detest the painting that depicts his wife . <eos>
+The fireman wonders if they found the satchel that contains his axe . <eos>
+The emperor knows they are awed by the keys that unlock his palace . <eos>
+His uncle hopes they like the article that was about his son . <eos>
+The bishop knows they love the song that moved his his congregants . <eos>
+His brother believes they hid the chain that holds his his watch . <eos>
+The bachelor thinks they tore up the envelope that holds his letter . <eos>
+The count knows they breached the wall that surrounds his castle . <eos>
+The policeman wonders whether they like the book that was written by his friend . <eos>
+The clergyman thinks they penned the sermon that moved his congregants . <eos>
+The mailman worries they stole the sack that contained his letter . <eos>
+The man believes they found the photo that depicted his wallet . <eos>
+Your husband knows they dislike the movie that featured his favorite song . <eos>
+The actress said they saw the exhibit that featured his performance . <eos>
+The bride believes they lost the box that contained his ring . <eos>
+The countess worries they tunneled under the wall that encircles his castle . <eos>
+His wife believes they dislike the book that features his recipe . <eos>
+The witch believes they drank the brew that contained his potion . <eos>
+The goddess knows they admired the painting that depicted his likeness . <eos>
+Her aunt said they know the song that was written by his friend . <eos>
+The lady believes they misplaced the bag that contained his dress . <eos>
+The princess knows they are searching for the vault that houses his jewels . <eos>
+The girl believes they love the dish that was cooked by his mother . <eos>
+The queen knows they take pride in the song that honors his sovereignty . <eos>
+Her mother thinks they like the novel that was written by his friend . <eos>
+The waitress believes they stole the envelope that contained his paycheck . <eos>
+The mistress thinks they saw the gallery that features his artwork . <eos>
+The boy thinks they lost the box that contains her airplane . <eos>
+The knight suspects they mistreated the horse that belongs to her squire . <eos>
+The chairman worries they misplaced the dossier that holds her papers . <eos>
+The king worries they detest the painting that depicts her wife . <eos>
+The fireman wonders if they found the satchel that contains her axe . <eos>
+The emperor knows they are awed by the keys that unlock her palace . <eos>
+His uncle hopes they like the article that was about her son . <eos>
+The bishop knows they love the song that moved his her congregants . <eos>
+His brother believes they hid the chain that holds his her watch . <eos>
+The bachelor thinks they tore up the envelope that holds her letter . <eos>
+The count knows they breached the wall that surrounds her castle . <eos>
+The policeman wonders whether they like the book that was written by her friend . <eos>
+The clergyman thinks they penned the sermon that moved her congregants . <eos>
+The mailman worries they stole the sack that contained her letter . <eos>
+The man believes they found the photo that depicted her wallet . <eos>
+Your husband knows they dislike the movie that featured her favorite song . <eos>
